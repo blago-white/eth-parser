@@ -1,3 +1,3 @@
 # ethereum parser
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-https://img.shields.io/github/pipenv/locked/python-version/blago-white/https://github.com/blago-white/eth-parser
+https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white
